@@ -1,5 +1,3 @@
-import { randomFillSync } from "crypto"
-
 export function capitalize(string) {
     let newString = ''
     for (const letter of string) {
